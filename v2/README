@@ -1,0 +1,20 @@
+Highly Volatile Commodities:
+- Gold
+- Crude Oil
+- Wheat
+
+In general, gold prices tend to react based on the factors including:
+• Economic indicators such as, inflation, non-farm payroll, GDP estimates,
+ and etc.
+• U.S. dollar movements
+• U.S. Central Bank monetary announcements on interest rate changes
+• Uncertainties in the financial markets
+
+
+Step 1: Find correlation over time
+Step 2: Find time related patterns
+Step 3: Add market sentiment on interest rates, inflation, financial markets
+
+https://news.google.com/rss/search?q=apple&hl=en-US&gl=US&ceid=US:en
+
+https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
